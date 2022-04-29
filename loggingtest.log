@@ -1,0 +1,12 @@
+2021-04-10 08:26:07,516 this is msg for error
+2021-04-10 08:27:40,787 this is msg for error
+2021-04-10 08:30:59,635 error has occured 
+2021-04-10 08:30:59,641 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-15-c9812f2dde1b>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-04-10 08:38:19,951 this is my error log
+2021-04-10 08:38:19,952 this is my exception log
+NoneType: None
+2021-04-10 08:38:19,952 this is my critical log 
